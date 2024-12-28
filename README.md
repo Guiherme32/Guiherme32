@@ -1,12 +1,12 @@
 Bem-vindo ao meu perfil! 👋  
 
 Quem sou eu?  
-Sou um entusiasta da tecnologia e empreendedor apaixonado por inovação. Com experiência no desenvolvimento de soluções digitais e um histórico de atuação no **Exército**, estou sempre explorando novas ideias e ferramentas para otimizar processos e criar soluções úteis para o dia a dia.  
+Sou um entusiasta da tecnologia e empreendedor apaixonado por inovação. Com experiência no desenvolvimento de soluções digitais e um histórico de atuação no Exército, estou sempre explorando novas ideias e ferramentas para otimizar processos e criar soluções úteis para o dia a dia.  
 
  O que faço?  
-- 🛠️ Tecnologia:** Possuo uma loja de celulares e manutenção, onde ofereço serviços como desbloqueio via cabo USB e assistência técnica.  
-- 🌐 Desenvolvimento:** Estou criando sites e aplicações, incluindo um para a empresa Conome Glamis, focada em tecnologia.  
-- 📱 Negócios digitais:** Trabalho com a venda de produtos digitais, como contas de Netflix, e busco expandir meu portfólio na GGMAX Online  
+- 🛠️ Tecnologia: Possuo uma loja de celulares e manutenção, onde ofereço serviços como desbloqueio via cabo USB e assistência técnica.  
+- 🌐 Desenvolvimento: Estou criando sites e aplicações, incluindo um para a empresa Conome Glamis, focada em tecnologia.  
+- 📱 Negócios digitais: Trabalho com a venda de produtos digitais, como contas de Netflix, e busco expandir meu portfólio na GGMAX Online  
 
 Projetos em andamento 🚀  
 - Desenvolvimento de uma inteligência artificial em Python, que facilita a criação e depuração de códigos com uma interface intuitiva.  
