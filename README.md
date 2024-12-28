@@ -22,4 +22,4 @@ Meus interesses
 Fique à vontade para entrar em contato comigo para projetos, ideias ou apenas bater um papo:  
 - **E-mail:** [seu e-mail Guilhermecalo012@gmail.com]  
 - **LinkedIn:** [seu-perfil- https://www.linkedin.com/in/guilherme-ff-8a3878228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]  
-- **GitHub:** [seu-perfil-guilherme32]  
+- **GitHub:** [seu-perfil-https://github.com/Guiherme32/Guiherme32/commits?author=Guiherme32]  
